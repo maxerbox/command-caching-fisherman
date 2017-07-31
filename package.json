@@ -1,0 +1,26 @@
+{
+  "name": "command-caching-fisherman",
+  "version": "1.0.0",
+  "description": "A command caching middleware, used to cache the result of a command",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fisherman",
+    "middleware",
+    "discord",
+    "caching",
+    "command"
+  ],
+  "author": "Simon Sassi/Maxerbox",
+  "license": "ISC",
+  "dependencies": {
+    "cacheman": "^2.2.1",
+    "defaults": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxerbox/command-caching-fisherman.git"
+  }
+}
