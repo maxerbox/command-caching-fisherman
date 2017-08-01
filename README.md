@@ -3,6 +3,8 @@
 > A command caching middleware, used to cache the result of a command.
 > Copyright © 2017, Simon Sassi
 
+<h1 align="center"><img width="150" src="https://cdn.rawgit.com/maxerbox/parallel-handle-fisherman/64ee8684/badge.png" alt="fisherman"></h1>
+
 ## Installation
 
 ```terminal
