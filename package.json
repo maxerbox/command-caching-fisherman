@@ -1,6 +1,6 @@
 {
   "name": "command-caching-fisherman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command caching middleware, used to cache the result of a command",
   "main": "lib/index.js",
   "scripts": {
